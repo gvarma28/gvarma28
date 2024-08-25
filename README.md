@@ -9,7 +9,8 @@ I'm a passionate software engineer. 👨‍💻
 <br>
 
 
-In my spare time, I contribute to
+In my spare time, I contribute to 👇
+<br>
 <br>
 <a href="https://github.com/mattermost/mattermost"> <img src="https://github.com/user-attachments/assets/a97b8465-03a4-4f2c-bf64-50f230a36f1d" width="145px"  /> </a>
 
