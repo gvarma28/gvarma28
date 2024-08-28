@@ -1,6 +1,6 @@
 <h1>Hoi 👋</h1>
 
-I'm a passionate software engineer. 👨‍💻
+I'm a passionate **Software Engineer** from **India**. 👨‍💻
 <br>
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/gvarma28" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
@@ -8,8 +8,7 @@ I'm a passionate software engineer. 👨‍💻
 </p>
 <br>
 
-
-In my spare time, I contribute to 👇
+In my spare time, I **contribute** to 👇
 <br>
 <br>
 <a href="https://github.com/mattermost/mattermost"> <img src="https://github.com/user-attachments/assets/a97b8465-03a4-4f2c-bf64-50f230a36f1d" width="145px"  /> </a>
