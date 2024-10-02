@@ -16,3 +16,5 @@ In my spare time, I **contribute** to 👇
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gvarma28&" alt="gvarma28" />
 </p>
+
+[![An image of @gvarma28's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gvarma28)](https://holopin.io/@gvarma28)
