@@ -7,7 +7,7 @@ I'm a passionate **Software Engineer**. 👨‍💻
   <a target="_blank" href="https://twitter.com/https://x.com/gvarma28" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 </p>
 
-In my spare time, I contribute to <a href="https://github.com/mattermost/mattermost">Mattermost</a> (open source alternative to slack, written in React and Go)
+In my spare time, I contribute to <a href="https://github.com/mattermost/mattermost">Mattermost</a> (an open-source alternative to slack, written in `React` and `Go`)
 <br>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gvarma28&theme=soft-green&border_radius=0" alt="GitHub Streak" /></a>
