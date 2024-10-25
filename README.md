@@ -1,6 +1,6 @@
 <h1>Hoi 👋</h1>
 
-I'm a passionate **Software Engineer**. 👨‍💻
+I'm a passionate **Software Engineer** 👨‍💻
 <br>
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/gvarma28" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
