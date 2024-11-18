@@ -10,7 +10,7 @@ I'm a passionate **Software Engineer** 👨‍💻
 In my spare time, I contribute to <a href="https://github.com/mattermost/mattermost">Mattermost</a> (an open-source alternative to slack, written in `React` and `Go`)
 <br>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gvarma28&theme=soft-green&border_radius=0" alt="GitHub Streak" /></a>
+<a href="https://github.com/gvarma28"><img src="https://streak-stats.demolab.com?user=gvarma28&theme=soft-green&border_radius=0" alt="GitHub Stats" /></a>
 
 [![An image of @gvarma28's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gvarma28)](https://holopin.io/@gvarma28)
 
