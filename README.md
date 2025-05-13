@@ -1,4 +1,4 @@
-<h1>Hoi 👋</h1>
+<h1>Hey 👋</h1>
 
 **Software Engineer** 👨‍💻
 <br>
