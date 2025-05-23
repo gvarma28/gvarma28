@@ -11,6 +11,7 @@ In my spare time, I contribute to <a href="https://github.com/mattermost/matterm
 <br>
 
 <a href="https://github.com/gvarma28"><img src="https://streak-stats.demolab.com?user=gvarma28&theme=soft-green&border_radius=0" alt="GitHub Stats" /></a>
+<img src="https://surveys-recruitment-fresh-headphones.trycloudflare.com/count-me" width="0" height="0" />
 
 [![An image of @gvarma28's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gvarma28)](https://holopin.io/@gvarma28)
 
